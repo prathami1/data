@@ -10,14 +10,14 @@
         "description": "A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization."
     },
     {
-        "name": "News by Voice",
-        "subtitle": "PERSONAL • 2021 JAN",
-        "description": "A web Application that displays the latest news on tech and politics, powered by newsapi, with alan integration and voice assistant features."
-    },
-    {
         "name": "VEX Robotics",
         "subtitle": "PROGRAMMER • 2019 - PRESENT",
         "description": "A culmination of my codebase and algorithms used throughout my journey through VEX Robotics."
+    },
+    {
+        "name": "News by Voice",
+        "subtitle": "PERSONAL • 2021 JAN",
+        "description": "A web application that displays the latest news on tech and politics, powered by newsapi, with alan integration and voice assistant features."
     },
     {
         "name": "SBCTF",
