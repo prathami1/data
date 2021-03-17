@@ -3,45 +3,54 @@
         "name": "Covid Analysis",
         "subtitle": "PERSONAL • 2021 MAR",
         "description": "A React + Flask web application that details information on the Coronavirus, including datasets, news, a time series analysis, and vaccine distribution information."
+        "frameworks" : ['flask', 'javascript', 'react', 'css', 'python']
     },
     {
         "name": "Dijkstra's A* Algorithm Visualized",
         "subtitle": "PERSONAL • 2021 JAN",
-        "description": "A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization."
+        "description": "A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization.",
+        "frameworks" : ['javascript', 'react', 'css']
     },
     {
         "name": "VEX Robotics",
         "subtitle": "PROGRAMMER • 2019 - PRESENT",
-        "description": "A culmination of my codebase and algorithms used throughout my journey through VEX Robotics."
+        "description": "A culmination of my codebase and algorithms used throughout my journey through VEX Robotics.",
+        "frameworks" : ['git', 'atom']
     },
     {
         "name": "News by Voice",
         "subtitle": "PERSONAL • 2021 JAN",
-        "description": "A web application that displays the latest news on tech and politics, powered by newsapi, with alan integration and voice assistant features."
+        "description": "A web application that displays the latest news on tech and politics, powered by newsapi, with alan integration and voice assistant features.",
+        "frameworks" : ['javascript', 'react', 'css', 'accusoft']
     },
     {
         "name": "SBCTF",
         "subtitle": "FIRST PLACE WINNER • 2020 APR",
-        "description": "Placed First in a district wide coding compeition with over 200 participants. Learned a lot while participating, and built a lot of new skillsets on various CS topics."
+        "description": "Placed First in a district wide coding compeition with over 200 participants. Learned a lot while participating, and built a lot of new skillsets on various CS topics.",
+        "frameworks" : ['html', 'javascript', 'fire', 'css', 'python', 'git']
     },
     {
         "name": "Drink Plus",
         "subtitle": "HACK MSCT V • 2019 NOV",
-        "description": "Audrino based set of sensors with a complimentary android app my hackmates and I developed that informs users about safe beverage consuming habits (in real time)."
+        "description": "Audrino based set of sensors with a complimentary android app my hackmates and I developed that informs users about safe beverage consuming habits (in real time).",
+        "frameworks" : ['android', 'fire', 'python']
     },
     {
         "name": "Tax Calculator",
         "subtitle": "HACK PHS • 2019 NOV",
-        "description": "An android application my hackmates and I developed to calculate ones taxes locally and aid them in filing their tax returns."
+        "description": "An android application my hackmates and I developed to calculate ones taxes locally and aid them in filing their tax returns.",
+        "frameworks" : ['android', 'fire']
     },
     {
         "name": "Remote Desktop Client",
         "subtitle": "HACK SB • 2019 MAR",
-        "description": "A remote monitoring serivce my hackmates and I built to aid one surveiling their loved ones."
+        "description": "A remote monitoring serivce my hackmates and I built to aid one surveiling their loved ones.",
+        "frameworks" : ['android', 'java', 'fire']
     },
     {
         "name": "Facial Emotions",
         "subtitle": "PERSONAL • 2020 MAY",
-        "description": "This software can recognize a person's user data and their emotions."
+        "description": "This software can recognize a person's user data and their emotions.",
+        "frameworks" : ['html', 'javascript', 'css', 'git']
     }
 ]
