@@ -6,16 +6,22 @@
         "frameworks": ["flask", "javascript", "react", "css", "python"]
     },
     {
-        "name": "Dijkstra's A* Algorithm Visualized",
-        "subtitle": "PERSONAL • 2021 JAN",
-        "description": "A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization.",
-        "frameworks" : ["javascript", "react", "css"]
+        "name": "Spotify Analysis",
+        "subtitle": "PERSONAL • 2021 AUG",
+        "description": "An analysis of one's Spotify Account with the use of their listening habits. ",
+        "frameworks" : ["html", "css", "flask", "python", "git"]
     },
     {
         "name": "VEX Robotics",
         "subtitle": "PROGRAMMER • 2019 - PRESENT",
         "description": "A culmination of my codebase and algorithms used throughout my journey through VEX Robotics.",
         "frameworks" : ["git", "atom"]
+    },
+    {
+        "name": "Dijkstra's A* Algorithm Visualized",
+        "subtitle": "PERSONAL • 2021 JAN",
+        "description": "A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization.",
+        "frameworks" : ["javascript", "react", "css"]
     },
     {
         "name": "News by Voice",
