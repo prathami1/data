@@ -13,7 +13,7 @@
     },
     {
         "name": "VEX Robotics",
-        "subtitle": "PROGRAMMER • 2019 - PRESENT",
+        "subtitle": "HEAD PROGRAMMER • 2019 - PRESENT",
         "description": "A culmination of my codebase and algorithms used throughout my journey through VEX Robotics.",
         "frameworks" : ["git", "atom"]
     },
