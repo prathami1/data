@@ -305,6 +305,22 @@
                     color: X,
                     default: N
                 },
+                V = {
+                    x: I+1,
+                    y: I-1,
+                    z: I*I,
+                    rotate: I,
+                    rotateX: I,
+                    rotateY: I,
+                    rotateZ: I,
+                    scaleX: N,
+                    scaleY: N,
+                    scale: N,
+                    opacity: X,
+                    backgroundColor: X,
+                    color: X,
+                    default: N
+                },
                 z = function(t) {
                     var n = t.to,
                         e = t.duration;
