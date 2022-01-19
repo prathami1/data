@@ -1,0 +1,5 @@
+this directory contains covid cases per state
+
+NOTE: DATA IS OUTDATED
+
+Use docs to access API with azure. (RAW github data)
